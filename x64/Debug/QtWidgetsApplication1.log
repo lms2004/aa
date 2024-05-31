@@ -1,805 +1,315 @@
-﻿  moc uploader.h
-  main.cpp
-  uploader.cpp
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1c2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1c5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x370 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1d0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x376 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x377 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1d2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x378 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x37c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x404 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x406 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x40c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x40d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x4b7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x4b9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x4c1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x4c2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x53e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x544 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x545 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x546 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x54a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x5d2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x5d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x5da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x5db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x676 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x677 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x67a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x67c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x9e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x9e5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x9e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x9e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x9eb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xa27 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xa2a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xa2b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xa2d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xa2f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xa30 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xb02 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xb04 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xb06 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xb07 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xb08 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xb09 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xb10 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xb11 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xce9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xceb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xcef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xcf1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+﻿  uploader.cpp
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x21d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x21e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x221 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x222 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x224 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x225 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x226 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x227 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x22a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x22b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x22e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x232 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x233 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x5a2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x5a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x5ac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x5ad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x633 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x639 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x63a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x63b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x63f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x6c7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x6c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x6cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x6d0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x77a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x77c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x784 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x785 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x801 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x807 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x808 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x809 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x80d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x895 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x897 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x89d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x89e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x939 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x93a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x93d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x93f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xca6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xca8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xca9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xcab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xcae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xcea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xced 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xcee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xcf0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xcf2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xcf3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xcf4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x162f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1631 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1632 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1635 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1637 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x163a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x16df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x16e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x16e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x16e5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x16e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x16ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x177c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x177e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x177f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1785 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x17b0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x17b2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x17b3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x17b9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x17bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x17be 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x17bf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x17c1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x17c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x17c5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x17c7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x17c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x17ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x17cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x17cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x17d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x17d2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x17d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x17dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x18f8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x18fc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x18fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1903 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1983 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1987 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1989 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x198a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x198c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x198d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1a3a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1a3c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1a3e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1a3f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1a47 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1a4a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xdc0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xdc2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xdc4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xdc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xdc6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xdc7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xdce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xdcf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xe0a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xe0b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xe0c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xe0e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xe12 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xe13 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xe16 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xe17 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xe21 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xe22 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xe25 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xe26 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xf9a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xf9b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xfaa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xfab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xfac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xfad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xfb5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xfb6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xfb9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xfba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xfbe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xfbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0xfc0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x10b2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x10b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x10b8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x10ba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x10bc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x10bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x19f8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x19fa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x19fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x19fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1a00 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1a03 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1aa8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1aaa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1aac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1aae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1aaf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1ab5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b45 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b47 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b49 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b4b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b4c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b4d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b4f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b53 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b55 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b56 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1cfa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1cfe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d00 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d01 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d02 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d05 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d06 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d08 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d0b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d8d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d8e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d8f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d91 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d95 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d97 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d98 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d99 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d9a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d9c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d9d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d9e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b48 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b4e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b79 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b7b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b7c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b82 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b86 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b87 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b88 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b8a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b8c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b8e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b90 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b92 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b93 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b95 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b98 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b9a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b9b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1b9f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1ba5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1cc1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1cc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1cc7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1ccc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d4c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d50 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d52 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d53 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d55 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1d56 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1e03 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1e05 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1e07 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1e08 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1e10 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1e13 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1f12 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1f14 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1f16 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1f17 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1f18 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1f19 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1f1c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1f1a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1f1e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1f20 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x1f21 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2033 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2035 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2037 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x206a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x206c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x206e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2070 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2072 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2073 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2075 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2079 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x207c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x207d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x207e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2270 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2272 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2273 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2279 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x227f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2281 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2283 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2284 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2286 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2287 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x228a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x20d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x20db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x20dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x20de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x20df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x20e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x20e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x20e5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x20e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x216a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x216b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x216c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x216e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2172 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2174 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2175 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2176 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2177 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2179 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x217a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x217b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x22f5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x22f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x22f9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x22fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x22fd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x22fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2410 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2412 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2414 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2447 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2449 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x244b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x244d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x244f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2450 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2452 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2456 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2459 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x245a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x245b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x245d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x245e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x245f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2461 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2462 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x24d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x24d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x24d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x24da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x24e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x24e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x24e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x24e5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x24e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x270f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2711 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2713 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2715 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2716 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x271c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x271d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2812 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2814 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2816 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2845 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2847 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2849 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x284b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x284d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x284e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2850 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2854 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2857 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2858 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2859 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a72 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a74 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a75 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a76 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a78 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a7a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a7b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a7e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a80 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a83 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a84 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a86 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a87 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a90 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a92 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a93 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a94 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a95 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a96 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a98 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a9a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a9b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2a9d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2b0d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2b1b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2b1c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2b1d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2b21 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2b22 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2b25 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2b29 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2b2a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2b2b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2b2d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2b2f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2b30 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2b31 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2ba0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2ba1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2ba4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2bd1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2bd3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2bd4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2bd5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2bd7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2bd9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2bda 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2bdd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2bdf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2be2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2be3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2be5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2be6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x264d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x264f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2650 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2656 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x265c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x265e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2660 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2661 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2663 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2664 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2667 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2838 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x283a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x283b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x283c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x283e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x283f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x28b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x28b5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x28b6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x28b7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x28bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x28be 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x28c0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x28c2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x28c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2aec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2aee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2af0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2af2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2af3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2af9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2afa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2bef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2bf1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2bf2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2bf3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2bf4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2bf5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2bf7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2bf9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2bfa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2bfc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2c77 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2c79 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2c7a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2c7b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2c7c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2c7f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2c81 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2c82 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScoreManage.h(1,1): warning C4828: 文件包含在偏移 0x41 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScoreManage.h(1,1): warning C4828: 文件包含在偏移 0x42 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScoreManage.h(1,1): warning C4828: 文件包含在偏移 0x44 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScoreManage.h(1,1): warning C4828: 文件包含在偏移 0x45 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScoreManage.h(1,1): warning C4828: 文件包含在偏移 0x46 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScoreManage.h(1,1): warning C4828: 文件包含在偏移 0x4b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScoreManage.h(1,1): warning C4828: 文件包含在偏移 0x4c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScoreManage.h(1,1): warning C4828: 文件包含在偏移 0x4f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScoreManage.h(1,1): warning C4828: 文件包含在偏移 0x50 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScoreManage.h(1,1): warning C4828: 文件包含在偏移 0x51 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScoreManage.h(1,1): warning C4828: 文件包含在偏移 0x52 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScoreManage.h(1,1): warning C4828: 文件包含在偏移 0x257 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScoreManage.h(1,1): warning C4828: 文件包含在偏移 0x258 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScoreManage.h(1,1): warning C4828: 文件包含在偏移 0x259 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScoreManage.h(1,1): warning C4828: 文件包含在偏移 0x25b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScoreManage.h(1,1): warning C4828: 文件包含在偏移 0x25d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScoreManage.h(1,1): warning C4828: 文件包含在偏移 0x25e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x116 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x11a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x11c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x11d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x139 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x13d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x13e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x15d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x161 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x164 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x180 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x181 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x22e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x22f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x230 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x232 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x233 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x234 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x241 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x243 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x245 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x246 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x247 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x249 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x24c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x24e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x250 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x252 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x32f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x331 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x332 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x333 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x334 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x337 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x339 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x33d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x341 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x342 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x343 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x344 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x348 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x34c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x34d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x34e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x351 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x352 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x354 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x355 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x359 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x35a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x35c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x393 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x395 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x396 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x399 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x39a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x39b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x39c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x39e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x3a2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x3a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x3a7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x3b9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x3bb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x3bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x3be 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x3bf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x3c1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x3c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x3c6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x3ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x498 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x49a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x49b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x49c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x49f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4a1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4a2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4a6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4ae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4af 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4b6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4b8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4bb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4bc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4be 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4bf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4c1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4c5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4c6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x4d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x551 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x553 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x556 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x559 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x55a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x572 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x573 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x576 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x577 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x57a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x57b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x592 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x593 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x595 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x596 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x59a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x5e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x5e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x5ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x5ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x5f0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x5f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x5fc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x5fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x5ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x600 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x601 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x602 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x628 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x62a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x62d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x630 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x631 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x65f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x662 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x664 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x665 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x668 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x698 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x699 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x69f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x6a1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x6a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x6a7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x6a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x6eb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x6f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x6f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x6f8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x6fa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\ProjectScore.h(1,1): warning C4828: 文件包含在偏移 0x6fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“main.cpp”)
-  
-  moc_uploader.cpp
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2c22 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2c24 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2c26 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2c28 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2c2a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2c2b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2c2d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2c31 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2c34 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2c35 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2c36 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e4f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e51 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e52 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e53 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e55 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e57 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e58 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e5b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e5d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e60 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e61 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e63 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e64 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e6d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e6f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e70 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e71 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e72 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e73 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e75 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e77 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e78 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2e7a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2eea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2ef8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2ef9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2efa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2efe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2eff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2f02 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2f06 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2f07 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2f08 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2f0a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2f0c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2f0d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2f0e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2f7d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2f7e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2f81 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fb0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fb1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fb2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fb4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fb6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fb7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fbc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fc0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fc2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fc3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fcc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fcf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fd0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fd1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fd2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fd4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fd6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fd7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x2fd9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x3054 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x3056 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x3057 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x3058 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x3059 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x305c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x305e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(1,1): warning C4828: 文件包含在偏移 0x305f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\c++documents\My project\QT\QT-\QtWidgetsApplication1\uploader.cpp(27,61): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
   QtWidgetsApplication1.vcxproj -> E:\c++documents\My project\QT\QT-\x64\Debug\QtWidgetsApplication1.exe
