@@ -103,3 +103,27 @@ Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
 
+[Mon Jun  3 16:31:11 2024] command:  git checkout “main”
+error:
+error: pathspec '鈥渕ain鈥�' did not match any file(s) known to git
+
+[Mon Jun  3 16:31:11 2024] error: command:  git checkout “main”
+error:
+error: pathspec '鈥渕ain鈥�' did not match any file(s) known to git
+
+[Mon Jun  3 16:31:46 2024] command:  git checkout “main”
+error:
+error: pathspec '鈥渕ain鈥�' did not match any file(s) known to git
+
+[Mon Jun  3 16:31:46 2024] error: command:  git checkout “main”
+error:
+error: pathspec '鈥渕ain鈥�' did not match any file(s) known to git
+
+[Mon Jun  3 16:34:26 2024] command:  git checkout master
+error:
+error: pathspec 'master' did not match any file(s) known to git
+
+[Mon Jun  3 16:34:26 2024] error: command:  git checkout master
+error:
+error: pathspec 'master' did not match any file(s) known to git
+
