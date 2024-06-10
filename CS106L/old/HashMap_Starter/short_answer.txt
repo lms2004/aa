@@ -1,0 +1,26 @@
+Assignment 3: STL HashMap (short answer questions)
+Names:
+
+1.Explain the difference between at() and the implementation of the operator []：
+
+错误处理：
+at() 在键不存在时可以抛出异常，这是你可能希望在 const 上下文中保留或不同处理的行为。
+为 const 容器重载 at() 允许你以不修改容器的方式使用它，但仍提供错误处理。
+
+Const 正确性：
+为 const 容器实例重载 at()，使其能够以只读方式访问元素，符合 const 正确性的原则。
+你可以在 const 上下文中安全地访问元素，而不冒修改容器的风险，这不是用 operator[] 因其默认行为插入不存在的元素而保证的。
+
+
+2.当决定是否使用HashMap::find或std::find搜索ka 中的键时HashMap m，由于 Big-O 复杂性的差异，选择会显着影响性能：
+
+HashMap::find：此函数专门设计用于处理哈希映射。哈希映射根据哈希值将其元素组织在存储桶中。
+由于这种结构以及每个存储桶平均有恒定数量的元素这一事实，因此搜索元素的平均时间复杂度HashMap::find为 O(1)。
+此方法直接访问元素（如果存在）所在的存储桶，从而最大限度地减少搜索时间。
+
+std::find：该算法是 STL 算法库的一部分，在两个迭代器指定的范围内进行线性搜索。
+它不了解底层数据结构的组织（如哈希映射的存储桶），因此将检查序列中的每个元素，直到找到匹配或到达末尾。
+std::find对于 n 个元素的序列，时间复杂度为 O(n)，因为它可能会检查每个元素。
+
+考虑到这些差异，HashMap::find通常更适合在 a 中搜索键HashMap，因为它利用哈希图的底层结构来提供平均更快的查找时间。
+

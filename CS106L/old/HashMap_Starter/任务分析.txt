@@ -1,0 +1,35 @@
+
+要在您的HashMap类中实现const-correctness并完成这个里程碑，您需要遵循几个步骤来增强代码库的const-correctness。
+这里是一个结构化的方法指导您通过这个过程：
+
+1. 分析main.cpp
+目标：确定在哪里可以给函数参数添加const。
+操作：检查student_main()调用的所有函数，检查传递给这些函数的参数是否在函数内部未被修改。
+如果一个参数没有被修改，它就应该被标记为const。这个步骤确保您不会意外修改您只想读取的数据。
+
+2. 更新hashmap.h和hashmap.cpp
+目标：更新您的HashMap类，使其const-correct。
+操作步骤：
+标记函数为const：逐个检查HashMap类中的每个成员函数，如果它不修改任何成员变量，就将其标记为const。
+这涉及到在hashmap.h（声明）和hashmap.cpp（定义）中函数签名的末尾添加const。
+.h和.cpp文件之间保持一致：确保在hashmap.h中对函数签名所做的任何更改也反映在hashmap.cpp中。
+
+3. 添加Const重载
+目标：通过重载函数使用const_iterator来增强const-interface。
+操作步骤：
+识别函数：寻找返回迭代器的成员函数，并且应该有返回const_iterator的const对应版本。允许迭代但不修改元素的函数是这方面的候选。
+实现Const重载：对于每个识别出来的函数，在hashmap.h中添加一个重载版本，并在hashmap.cpp中实现它。
+const版本应该返回一个const_iterator。使用static_cast/const_cast技巧高效地通过利用非const版本来实现这些函数。
+
+4. 特别注意
+提到了一个不返回迭代器但仍需要const重载的函数。
+这暗示了一个函数，虽然不直接处理迭代，但在其const-correctness方面是重要的。
+常见的候选可能包括size、empty或find（如果find返回一个可以用来修改元素的引用或指针，它应该有一个返回const引用或指针的const版本）。
+
+5. 编译和测试
+目标：确保您的更改能够编译并按预期工作。
+操作：取消注释指定的行（5, 6, 和 28）并尝试编译您的代码。仔细关注与const-correctness相关的编译错误。这些错误可以引导您发现可能遗漏或实现不正确的任何函数。
+调试技巧
+编译器错误：将编译器错误作为线索。如果您得到一个与尝试调用非const函数的const函数相关的错误，这很可能意味着您需要为被调用的函数添加一个const重载。
+迭代过程：您可能不会一次就做对所有事情。这是正常的。使用每次编译尝试来精炼和纠正您的实现。
+通过仔细遵循这些步骤，您将改进您的HashMap类的const-correctness，使您的代码更安全，更健壮，防止意外修改。
