@@ -127,3 +127,47 @@ error: pathspec 'master' did not match any file(s) known to git
 error:
 error: pathspec 'master' did not match any file(s) known to git
 
+[Mon Jun 10 20:45:53 2024] command:  git commit -m "自动提交"
+error:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   CS106L/Extra homework/AP1400-2-HW1 (modified content, untracked content)
+	modified:   CS106L/Extra homework/AP1400-2-HW2 (modified content)
+	modified:   CS106L/Extra homework/AP1400-2-HW4 (modified content)
+	modified:   CS106L/Extra homework/AP1400-2-HW5 (modified content, untracked content)
+	modified:   CS106L/Extra homework/AUT1400 (modified content)
+	modified:   CS106L/answers (untracked content)
+	modified:   CS106L/old/cs106L-assignment1 (modified content, untracked content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+[Mon Jun 10 20:45:53 2024] error: command:  git commit -m "自动提交"
+error:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   CS106L/Extra homework/AP1400-2-HW1 (modified content, untracked content)
+	modified:   CS106L/Extra homework/AP1400-2-HW2 (modified content)
+	modified:   CS106L/Extra homework/AP1400-2-HW4 (modified content)
+	modified:   CS106L/Extra homework/AP1400-2-HW5 (modified content, untracked content)
+	modified:   CS106L/Extra homework/AUT1400 (modified content)
+	modified:   CS106L/answers (untracked content)
+	modified:   CS106L/old/cs106L-assignment1 (modified content, untracked content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+[Mon Jun 10 20:46:17 2024] command:  git pull origin main
+error:
+
+[Mon Jun 10 20:46:17 2024] error: command:  git pull origin main
+error:
+
